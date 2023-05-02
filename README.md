@@ -5,3 +5,8 @@ This project started as a fork of the incomplete articulation sets provided by S
 
 ## Installation
 To install articulation sets for Logic Pro, download the files included in this repository, and then place them in _User_ > _Music_ > _Audio Music Apps_ > _Articulation Settings_. To navigate to your User folder, open Finder and select _Home_ from the _Go_ menu or use the keyboard shortcut <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>.
+
+## Roadmap
+- [x] [BBC Symphony Orchestra Discover](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover)
+- [ ] [BBC Symphony Orchestra Core](https://www.spitfireaudio.com/bbc-symphony-orchestra-core)
+- [ ] [BBC Symphony Orchestra Professional](https://www.spitfireaudio.com/bbc-symphony-orchestra-professional)
